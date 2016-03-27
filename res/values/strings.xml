@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Secure Kid</string>
+    <string name="action_settings">Logout</string>
+    <string name="home_icon">Home</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+
+    <string name="title_activity_call_logs">Call Logs</string>
+    <string name="call_logs">Call Logs</string>
+    <string name="message_logs">Message Logs</string>
+    <string name="location">Location</string>
+    <string name="browsing_history">Browsing History</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="title_activity_message_logs">Message Logs</string>
+    <string name="title_activity_browsing_history">Browsing History</string>
+    <string name="title_activity_location">Location</string>
+    <string name="title_activity_dictionary">Dictionary</string>
+    <string name="bad_words">Bad Words</string>
+    <string name="good_words">Good Words</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_emergency">Emergency</string>
+    <string name="title_activity_success">Congratulations!</string>
+    <!-- Login Page -->
+    <string name="login">Login</string>
+    <string name="register">Register Here</string>
+    <string name="parent">Parent</string>
+    <string name="child">Child</string>
+<!-- header -->
+    <string name="menu">Menu</string>
+    <string name="add_child">Add Child</string>
+    <string name="title_activity_synchronization">Synchronization</string>
+    <string name="title_activity_choose_kid">Choose Kid</string>
+    <string name="sync">image</string>
+    <string name="title_activity_add_words">Secure Kid</string>
+    <string name="call_parent">Call Parent</string>
+    <string name="call_15">Call Police</string>
+    <string name="call_115">Call Ambulance</string>
+    <string name="msg_urgent">Its urgent</string>
+    <string name="msg_trouble">I am in trouble, help!</string>
+    <string name="msg_call_me">Call me, I need help!</string>
+    <string name="congrats"> Congratulations! \n Your ID is ----</string>
+    <string name="location_permission_denied">lpd</string>
+    <string name="permission_required_toast">prt</string>
+    <string name="permission_rationale_location">prl</string>
+    <string name="title_activity_try1">try1</string>
+    <string name="title_activity_sync">sync</string>
+
+</resources>
